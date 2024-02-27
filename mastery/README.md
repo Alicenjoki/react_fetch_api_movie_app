@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+##A SIMPLE MOVIE APP THAT YOU CAN BE ABLE TO SEARCH MOVIES TO GIVE THEIR DESCRIPTION.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The display as for now needs someone to search for something so that the screen can display a list of the filtered movies based on the search term.
+![mv1](https://github.com/Alicenjoki/react_fetch_api_movie_app/assets/85416554/5865eef4-0ff6-470a-9aea-e8b0c300c3ed)
 
-## Available Scripts
+Once a search Term has been typed and searched, movies that have a word in the title similar to the search term are filtered and displayed.
+![mv3](https://github.com/Alicenjoki/react_fetch_api_movie_app/assets/85416554/7727a98b-d429-4770-9a26-eacc06010c8e)
 
-In the project directory, you can run:
+Each movie card has a year the movie was released, the title of the movie or series, and the category of the movie that is if it is a series or movie.
+![mv2](https://github.com/Alicenjoki/react_fetch_api_movie_app/assets/85416554/46ef1a81-91f8-4a5e-9e9e-1267052d1e60)
 
-### `npm start`
+The App is responsive on different screen sizes.
+![mv6](https://github.com/Alicenjoki/react_fetch_api_movie_app/assets/85416554/5a088e2e-c8e3-4cde-9f5c-3f5191743ae0)
+![mv4](https://github.com/Alicenjoki/react_fetch_api_movie_app/assets/85416554/4c06c750-f475-43f5-90dd-ce5358b2c3f3)
+![mv5](https://github.com/Alicenjoki/react_fetch_api_movie_app/assets/85416554/aa80f0ed-f1ae-41a7-b821-75bc6ed823d6)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
